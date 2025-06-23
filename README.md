@@ -2,7 +2,7 @@
 
 > *"The truth is out there. So is the source code."*
 
-Welcome. You’ve found the academic repository of Sage — a UTSA Computer Science student with a background in sound design, military intelligence, and a persistent curiosity about the systems most people overlook.
+Welcome. You’ve found the academic repository of Sage: a UTSA Computer Science student with a background in sound design, military intelligence, and a persistent curiosity about the systems most people overlook.
 
 This account serves as a repository of my coursework, collaboration, and code from my time at the University of Texas at San Antonio.
 

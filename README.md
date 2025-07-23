@@ -18,7 +18,7 @@ This account serves as a repository of my coursework, collaboration, and code fr
 - Android and Java-based group projects
 - C/C++ assignments and data structures work
 - Experimental reports and class deliverables
-- Evidence of growth — some of it rough, all of it real
+
 
 
 ## 🕵️‍♂️ Disclaimer
